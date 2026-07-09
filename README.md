@@ -13,7 +13,7 @@ development loop — edit in VS Code, run locally, commit with Git, and publish 
 public GitHub repository — so I can move quickly and confidently on larger projects
 later in my learning.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/jkRLeP4fH4g?si=jbQK1BToZP4ANW-Q)
 
 # Development Environment
 
